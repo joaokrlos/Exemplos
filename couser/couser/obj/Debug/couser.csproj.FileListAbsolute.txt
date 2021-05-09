@@ -1,0 +1,7 @@
+C:\Users\João Carlos\source\repos\couser\couser\bin\Debug\couser.exe.config
+C:\Users\João Carlos\source\repos\couser\couser\bin\Debug\couser.exe
+C:\Users\João Carlos\source\repos\couser\couser\bin\Debug\couser.pdb
+C:\Users\João Carlos\source\repos\couser\couser\obj\Debug\couser.csprojAssemblyReference.cache
+C:\Users\João Carlos\source\repos\couser\couser\obj\Debug\couser.csproj.CoreCompileInputs.cache
+C:\Users\João Carlos\source\repos\couser\couser\obj\Debug\couser.exe
+C:\Users\João Carlos\source\repos\couser\couser\obj\Debug\couser.pdb
